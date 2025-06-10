@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "the-grim:deepslate_static_ore",
+    "the-grim:static_ore",
+    "the-grim:grimstone_block"
+  ]
+}

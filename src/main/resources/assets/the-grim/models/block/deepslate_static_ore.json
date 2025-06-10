@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-  "all": "the-grim:block/grim_dirt"
+    "all": "the-grim:block/deepslate_static_ore"
   }
 }

@@ -7,6 +7,8 @@
   "block.the-grim.grim_dirt_block": "Grim Dirt Block",
   "block.the-grim.grimstone_block": "Grimstone Block",
   "block.the-grim.grim_short_grass": "Grim Short Grass",
+  "block.the-grim.static_ore": "Static Ore",
+  "block.the-grim.deepslate_static_ore": "Deepslate Static Ore",
 
   "itemgroup.the-grim.the_grim_items": "The Grim - Items",
   "itemgroup.the-grim.the_grim_blocks": "The Grim - Blocks"

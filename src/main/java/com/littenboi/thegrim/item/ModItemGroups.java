@@ -30,6 +30,8 @@ public class ModItemGroups {
                         entries.add(ModBlocks.GRIM_DIRT_BLOCK);
                         entries.add(ModBlocks.GRIMSTONE_BLOCK);
                         entries.add(ModBlocks.GRIM_SHORT_GRASS);
+                        entries.add(ModBlocks.STATIC_ORE);
+                        entries.add(ModBlocks.DEEPSLATE_STATIC_ORE);
                     }).build());
 
 
