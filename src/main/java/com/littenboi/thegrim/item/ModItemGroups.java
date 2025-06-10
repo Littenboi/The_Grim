@@ -18,6 +18,7 @@ public class ModItemGroups {
                     .entries((displayContext, entries) -> {
                         entries.add(ModItems.STATIC_GEM);
                         entries.add(ModItems.RAW_STATIC);
+                        entries.add(ModItems.GRIMSTONE_SHARD);
                     }).build());
 
     public static final ItemGroup THE_GRIM_BLOCKS = Registry.register(Registries.ITEM_GROUP,
@@ -27,6 +28,8 @@ public class ModItemGroups {
                     .entries((displayContext, entries) -> {
                         entries.add(ModBlocks.GRIM_GRASS_BLOCK);
                         entries.add(ModBlocks.GRIM_DIRT_BLOCK);
+                        entries.add(ModBlocks.GRIMSTONE_BLOCK);
+                        entries.add(ModBlocks.GRIM_SHORT_GRASS);
                     }).build());
 
 

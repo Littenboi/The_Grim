@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.5,
+  "group": "static_gem",
+  "ingredient": {
+    "item": "the-grim:raw_static"
+  },
+  "result": {
+    "id": "the-grim:static_gem"
+  }
+}

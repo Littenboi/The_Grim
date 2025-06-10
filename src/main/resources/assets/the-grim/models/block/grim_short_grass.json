@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "the-grim:block/grim_short_grass"
+  }
+}

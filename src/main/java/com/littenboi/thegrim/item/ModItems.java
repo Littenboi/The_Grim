@@ -11,6 +11,7 @@ import net.minecraft.util.Identifier;
 public class ModItems {
     public static final Item STATIC_GEM = registerItem( "static_gem", new Item(new Item.Settings()));
     public static final Item RAW_STATIC = registerItem( "raw_static", new Item(new Item.Settings()));
+    public static final Item GRIMSTONE_SHARD = registerItem( "grimstone_shard", new Item(new Item.Settings()));
 
 
     private static Item registerItem(String name, Item item) {
@@ -23,6 +24,7 @@ public class ModItems {
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(fabricItemGroupEntries -> {
             fabricItemGroupEntries.add(STATIC_GEM);
             fabricItemGroupEntries.add(RAW_STATIC);
+            fabricItemGroupEntries.add(GRIMSTONE_SHARD);
         });
     }
 }

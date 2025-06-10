@@ -1,9 +1,12 @@
 {
   "item.the-grim.static_gem": "Static Gem",
   "item.the-grim.raw_static": "Raw Static",
+  "item.the-grim.grimstone_shard": "Grimstone Shard",
 
   "block.the-grim.grim_grass_block": "Grim Grass Block",
   "block.the-grim.grim_dirt_block": "Grim Dirt Block",
+  "block.the-grim.grimstone_block": "Grimstone Block",
+  "block.the-grim.grim_short_grass": "Grim Short Grass",
 
   "itemgroup.the-grim.the_grim_items": "The Grim - Items",
   "itemgroup.the-grim.the_grim_blocks": "The Grim - Blocks"

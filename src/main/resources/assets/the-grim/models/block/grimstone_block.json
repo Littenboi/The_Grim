@@ -1,0 +1,22 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "particle": "the-grim:block/grimstone_block",
+    "bottom": "the-grim:block/grimstone_block",
+    "top": "the-grim:block/grimstone_block",
+    "side": "the-grim:block/grimstone_block"
+  },
+  "elements": [
+    {   "from": [ 0, 0, 0 ],
+      "to": [ 16, 16, 16 ],
+      "faces": {
+        "down":  { "uv": [ 0, 0, 16, 16 ], "texture": "#bottom", "cull face": "down" },
+        "up":    { "uv": [ 0, 0, 16, 16 ], "texture": "#top",    "cull face": "up", "tint index": 0 },
+        "north": { "uv": [ 0, 0, 16, 16 ], "texture": "#side",   "cull face": "north" },
+        "south": { "uv": [ 0, 0, 16, 16 ], "texture": "#side",   "cull face": "south" },
+        "west":  { "uv": [ 0, 0, 16, 16 ], "texture": "#side",   "cull face": "west" },
+        "east":  { "uv": [ 0, 0, 16, 16 ], "texture": "#side",   "cull face": "east" }
+      }
+    }
+  ]
+}
